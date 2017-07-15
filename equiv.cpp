@@ -1,5 +1,3 @@
-// CSCI 2530
-// Assignment: 3
 // Author:     Brandon Gachuz
 // File:       equiv.cpp
 // Tab stops:  4
