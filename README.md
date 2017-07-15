@@ -7,7 +7,7 @@ can be changed by the program. The equivalence relation is always over a set
 of integers {1,2,3,...,n} for some n. Initially, each number is in its own
 equivalence relation {1},{2},{3},...,{n}
 
-#Functions 
+# Functions 
 1. newER(n) returns an array of n+1 integers (allocated in the heap). This
    array will be used to store the bosses.
 
